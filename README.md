@@ -344,13 +344,13 @@ FPS: 30-70 (视线对着电路部分会掉到30fps)
 
 ### <b>物流</b>
 
-[png](https://github.com/kagurakang/fully-automatic-fungus-tree-farm/blob/master/automatic fungus tree farm bone meal effe zh.png)
+[png](https://github.com/kagurakang/fully-automatic-fungus-tree-farm/blob/master/automatic%20fungus%20tree%20farm%20bone%20meal%20effe%20zh.png)
 
 
 
 ### <b>生产数据表格</b>
 
-[pdf](https://github.com/kagurakang/fully-automatic-fungus-tree-farm/blob/master/fully automatic fungus tree farm bone meal effe zh v5.0.pdf)
+[pdf](https://github.com/kagurakang/fully-automatic-fungus-tree-farm/blob/master/fully%20automatic%20fungus%20tree%20farm%20bone%20meal%20effe%20zh%20v5.0.pdf)
 
 
 
