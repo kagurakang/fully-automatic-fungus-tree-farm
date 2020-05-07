@@ -31,6 +31,17 @@
 
 - [Minecraft News: 20w15a Blackstone by ilmango](https://www.bilibili.com/video/BV1iz411b7JT) 提出可自我循环利用的全自动树场概念 <b>2020/04/08</b>
 - [200粉丝纪念 最快全自动菌柄树场 35k 菌柄/小时](https://www.bilibili.com/video/BV12K411L7sH) 我的效率为优先设计的全自动树场 <b>2020/04/09</b>
+- 20w18a发布 **2020/04/29**
+
+改变红石线指向等特性，调整了TNT模块
+
+- 20w19a发布 **2020/05/06**
+
+> 下界苗
+>
+> - 现在需使用剪刀采集。
+
+统计中删除下界苗的统计。
 
 ## <b>树场介绍</b>
 
@@ -350,7 +361,7 @@ FPS: 30-70 (视线对着电路部分会掉到30fps)
 
 ### <b>生产数据表格</b>
 
-[pdf](https://github.com/kagurakang/fully-automatic-fungus-tree-farm/blob/master/fully%20automatic%20fungus%20tree%20farm%20bone%20meal%20effe%20zh%20v5.0.pdf)
+[pdf](https://github.com/kagurakang/fully-automatic-fungus-tree-farm/blob/master/fully%20automatic%20fungus%20tree%20farm%20bone%20meal%20effe%20zh%20.pdf)
 
 
 
