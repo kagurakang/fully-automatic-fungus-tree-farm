@@ -367,5 +367,5 @@ FPS: 30-70 (视线对着电路部分会掉到30fps)
 
 ### <b>存档与投影文件</b>
 
-[地址](https://drive.google.com/file/d/1vwZ1iJ6V3OYEvBFoFIRYKs9T40u6RzCP)
+[地址](https://github.com/kagurakang/fully-automatic-fungus-tree-farm/blob/master/%E5%85%A8%E8%87%AA%E5%8A%A8%E8%8F%8C%E6%9F%84%E5%86%9C%E5%9C%BA%20v5.2%20by%20kagurakang.zip)
 
